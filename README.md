@@ -27,4 +27,4 @@ Runtime:           12.497582 seconds
 =============================================
 ```
 
-![](bathroom_solitaire.pdf?raw=true)
+![](bathroom_solitaire.png)
